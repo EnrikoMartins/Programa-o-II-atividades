@@ -1,9 +1,9 @@
 package org.Program.exercicioPonto;
 
-public class Assistente {
+public class Assistente1 {
     private double salario;
 
-    public Assistente(double salario) {
+    public Assistente1(double salario) {
         this.salario = salario;
     }
 

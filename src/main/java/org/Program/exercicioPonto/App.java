@@ -30,7 +30,7 @@ public class App {
 
             System.out.println("Salário Total: " + vendedor.exibirSalario());
         } else if (Objects.equals(categoriaFuncionario, "assistente")) {
-            Assistente assistente = new Assistente(salario);
+            Assistente1 assistente = new Assistente1(salario);
 
             System.out.println("Salário Total: " + assistente.exibirSalario());
         } else {
